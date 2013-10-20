@@ -10,13 +10,14 @@ body {
 }
 
 h1 {
-  font-size: 84px;
+  font-size: 86px;
   padding-bottom: 16px;
   color: #dfaca1;
 }
 
 p {
-  font-size: 32px;
+  font-size: 28px;
   color: #dfaca1;
   font-weight: 100;
+  letter-spacing: 2px;
 }
