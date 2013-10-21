@@ -28,6 +28,8 @@
   <!-- Flatdoc theme -->
   <link  href='http://rstacruz.github.io/flatdoc/v/0.8.0/theme-white/style.css' rel='stylesheet'>
   <script src='http://rstacruz.github.io/flatdoc/v/0.8.0/theme-white/script.js'></script>
+  <script src='https://raw.github.com/davatron5000/FitVids.js/master/jquery.fitvids.js'></script>
+
 
   <!-- Meta -->
   <meta content="Your Project" property="og:title">
@@ -38,6 +40,7 @@
     Flatdoc.run({
       fetcher: Flatdoc.file('readme.md')
     });
+    $(".content").fitVids();
   </script>
 </head>
 <body role='flatdoc'>
