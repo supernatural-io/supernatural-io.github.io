@@ -1,5 +1,7 @@
 # Subtract
 
+Documentation for the 'Subtract' theme by Supernatural.io
+
 ## Installation
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
