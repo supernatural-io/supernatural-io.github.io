@@ -1,5 +1,3 @@
-# Subtract
-
 Documentation for the 'Subtract' theme by Supernatural.io
 
 ## Installation
